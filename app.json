@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Swing Trade V21",
+    "slug": "swing-trade-v21",
+    "version": "21.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.swingtrade.v21",
+      "versionCode": 21
+    },
+    "platforms": [
+      "android"
+    ]
+  }
+}
